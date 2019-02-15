@@ -14,12 +14,14 @@
 3. In `imnoise` function, it parameter **3** can be changed to other number, but **lambda** and **mu** must be changed accordingly to make sure it converge.
 
 The following parameters workd pretty well:
+
 | noise | lambd | mu   |
 |-------|-------|------|
 | 3     | 0.1   | 0.05 |
 | 2     | 0.1   | 0.1  |
 | 1     | 0.05  | 0.1  |
-* you can change paramters as you want, the parameters above is just for reference.
+
+*you can change paramters as you want, the parameters above is just for reference.
 
 Good Luck!
 
