@@ -25,7 +25,8 @@ def read_image():
 
 
 def imnoise(l):
-    return l + 3 * l.std() * np.random.random(l.shape)
+	noise = 3
+    return l + noise * l.std() * np.random.random(l.shape)
 
 
 def gradient_x(u):
