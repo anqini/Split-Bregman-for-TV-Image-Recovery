@@ -25,4 +25,4 @@ The following parameters work pretty well:
 
 Good Luck!
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Keep-calm-and-carry-on-scan.jpg/440px-Keep-calm-and-carry-on-scan.jpg| width = 200)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Keep-calm-and-carry-on-scan.jpg/440px-Keep-calm-and-carry-on-scan.jpg)
