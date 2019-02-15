@@ -25,7 +25,7 @@ def read_image():
 
 
 def imnoise(l):
-	noise = 3
+    noise = 3
     return l + noise * l.std() * np.random.random(l.shape)
 
 
