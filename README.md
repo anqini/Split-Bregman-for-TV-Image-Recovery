@@ -13,7 +13,7 @@
 2. `gaussian_method2` is an alternative of `gaussian_method` but it runs slower.
 3. In `imnoise` function, it parameter **3** can be changed to other number, but **lambda** and **mu** must be changed accordingly to make sure it converge.
 
-The following parameters workd pretty well:
+The following parameters work pretty well:
 
 | noise | lambd | mu   |
 |-------|-------|------|
@@ -25,3 +25,4 @@ The following parameters workd pretty well:
 
 Good Luck!
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Keep-calm-and-carry-on-scan.jpg/440px-Keep-calm-and-carry-on-scan.jpg| width = 200)
