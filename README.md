@@ -11,7 +11,7 @@
 ## Tips:
 1. Please download all modules (i.e. numpy, etc.) before you run the project.
 2. `gaussian_method2` is an alternative of `gaussian_method` but it runs slower.
-3. In `imnoise` function, it parameter **3** can be changed to other number, but **lambda** and **mu** must be changed accordingly to make sure it converge.
+3. In `imnoise` function, it parameter **3** can be changed to other numbers, but **lambda** and **mu** must be changed accordingly to make sure it converges.
 
 The following parameters work pretty well:
 
