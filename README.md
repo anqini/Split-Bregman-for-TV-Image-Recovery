@@ -3,12 +3,12 @@
 ### Author: Anqi Ni
 ### Email: anqini4@gmail.com
 
-## dependency:
+## Dependency:
 - numpy
 - scipy / imageio
 - matplotlib
 
-## tips:
+## Tips:
 1. Please download all modules (i.e. numpy, etc.) before you run the project.
 2. `gaussian_method2` is an alternative of `gaussian_method` but it runs slower.
 3. In `imnoise` function, it parameter **3** can be changed to other number, but **lambda** and **mu** must be changed accordingly to make sure it converge.
@@ -25,4 +25,4 @@ The following parameters work pretty well:
 
 Good Luck!
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Keep-calm-and-carry-on-scan.jpg/440px-Keep-calm-and-carry-on-scan.jpg)
+![https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Keep-calm-and-carry-on-scan.jpg/440px-Keep-calm-and-carry-on-scan.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Keep-calm-and-carry-on-scan.jpg/440px-Keep-calm-and-carry-on-scan.jpg)
